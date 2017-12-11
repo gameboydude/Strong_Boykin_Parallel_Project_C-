@@ -1,0 +1,18 @@
+﻿  Main.cpp
+f:\benji\documents\visual studio 2015\projects from f\mpi_project_strong~b_boykin~a\mpi_project_strong~b_boykin~a\main.cpp(159): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\benji\documents\visual studio 2015\projects from f\mpi_project_strong~b_boykin~a\kdtree.h(341): warning C4101: 'dx': unreferenced local variable
+  f:\benji\documents\visual studio 2015\projects from f\mpi_project_strong~b_boykin~a\kdtree.h(333): note: while compiling class template member function 'KDNode<int> *KDTree<int>::search_parent(KDNode<int> *,Xtype *)'
+          with
+          [
+              Xtype=int
+          ]
+  f:\benji\documents\visual studio 2015\projects from f\mpi_project_strong~b_boykin~a\kdtree.h(243): note: see reference to function template instantiation 'KDNode<int> *KDTree<int>::search_parent(KDNode<int> *,Xtype *)' being compiled
+          with
+          [
+              Xtype=int
+          ]
+  f:\benji\documents\visual studio 2015\projects from f\mpi_project_strong~b_boykin~a\kdtree.h(171): note: while compiling class template member function 'KDTree<int>::KDTree(void)'
+  f:\benji\documents\visual studio 2015\projects from f\mpi_project_strong~b_boykin~a\mpi_project_strong~b_boykin~a\main.cpp(96): note: see reference to function template instantiation 'KDTree<int>::KDTree(void)' being compiled
+  f:\benji\documents\visual studio 2015\projects from f\mpi_project_strong~b_boykin~a\mpi_project_strong~b_boykin~a\main.cpp(96): note: see reference to class template instantiation 'KDTree<int>' being compiled
+  MPI_Project_Strong~B_Boykin~A.vcxproj -> F:\benji\Documents\Visual Studio 2015\PROJECTS FROM F\MPI_Project_Strong~B_Boykin~A\Debug\MPI_Project_Strong~B_Boykin~A.exe
+  MPI_Project_Strong~B_Boykin~A.vcxproj -> F:\benji\Documents\Visual Studio 2015\PROJECTS FROM F\MPI_Project_Strong~B_Boykin~A\Debug\MPI_Project_Strong~B_Boykin~A.pdb (Full PDB)
